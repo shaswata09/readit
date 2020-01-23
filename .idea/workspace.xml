@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09383adf-0491-4396-8245-cf7e04254893" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U298ODvmhQNFQChOvOnz9yUo0p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src_progs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src_progs/strt_prog" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.read_img">
+    <configuration name="create_network" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="readit_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src_progs/strt_prog" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src_progs/strt_prog/create_network.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="focusing_extended" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="readit_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src_progs/procs_prog" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src_progs/procs_prog/focus_extend.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="network_status" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="readit_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src_progs/other_prog" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src_progs/other_prog/network_status.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="read_img" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="readit_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src_progs/procs_prog" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src_progs/procs_prog/read_img.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_network" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="readit_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src_progs/procs_prog" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src_progs/procs_prog/train_network.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.read_img" />
+        <item itemvalue="Python.network_status" />
+        <item itemvalue="Python.focusing_extended" />
+        <item itemvalue="Python.train_network" />
+        <item itemvalue="Python.create_network" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09383adf-0491-4396-8245-cf7e04254893" name="Default Changelist" comment="" />
+      <created>1555964849345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555964849345</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1305" height="208" key="GridCell.Tab.0.bottom" timestamp="1575806563983">
+      <screen x="42" y="24" width="1324" height="744" />
+    </state>
+    <state width="1305" height="208" key="GridCell.Tab.0.bottom/42.24.1324.744@42.24.1324.744" timestamp="1575806563983" />
+    <state width="1305" height="208" key="GridCell.Tab.0.center" timestamp="1575806563983">
+      <screen x="42" y="24" width="1324" height="744" />
+    </state>
+    <state width="1305" height="208" key="GridCell.Tab.0.center/42.24.1324.744@42.24.1324.744" timestamp="1575806563983" />
+    <state width="1305" height="208" key="GridCell.Tab.0.left" timestamp="1575806563982">
+      <screen x="42" y="24" width="1324" height="744" />
+    </state>
+    <state width="1305" height="208" key="GridCell.Tab.0.left/42.24.1324.744@42.24.1324.744" timestamp="1575806563982" />
+    <state width="1305" height="208" key="GridCell.Tab.0.right" timestamp="1575806563983">
+      <screen x="42" y="24" width="1324" height="744" />
+    </state>
+    <state width="1305" height="208" key="GridCell.Tab.0.right/42.24.1324.744@42.24.1324.744" timestamp="1575806563983" />
+    <state width="1305" height="208" key="GridCell.Tab.1.bottom" timestamp="1575806563985">
+      <screen x="42" y="24" width="1324" height="744" />
+    </state>
+    <state width="1305" height="208" key="GridCell.Tab.1.bottom/42.24.1324.744@42.24.1324.744" timestamp="1575806563985" />
+    <state width="1305" height="208" key="GridCell.Tab.1.center" timestamp="1575806563984">
+      <screen x="42" y="24" width="1324" height="744" />
+    </state>
+    <state width="1305" height="208" key="GridCell.Tab.1.center/42.24.1324.744@42.24.1324.744" timestamp="1575806563984" />
+    <state width="1305" height="208" key="GridCell.Tab.1.left" timestamp="1575806563984">
+      <screen x="42" y="24" width="1324" height="744" />
+    </state>
+    <state width="1305" height="208" key="GridCell.Tab.1.left/42.24.1324.744@42.24.1324.744" timestamp="1575806563984" />
+    <state width="1305" height="208" key="GridCell.Tab.1.right" timestamp="1575806563984">
+      <screen x="42" y="24" width="1324" height="744" />
+    </state>
+    <state width="1305" height="208" key="GridCell.Tab.1.right/42.24.1324.744@42.24.1324.744" timestamp="1575806563984" />
+  </component>
+</project>
