@@ -30,3 +30,15 @@ How to Use:
     6. Open index.php in your favourite browser.
     7. Congratulation!!! You have done it :)
     8. enjoy and enhance readit :)
+    
+    
+    
+    
+    
+    
+Note: 
+
+The training and dataset wasn’t uploaded due to github file size limitation. Please download a dataset from MNIST or wherever you feel free and then train it(code is already written to train and test network). You might need to change codes for your respective data. There are other programs “generate_test_file, generate_train_file, ... etc” (you can find these in “strt_prog” directory) wriiten to genetrate your dataset file in .pkl format.
+    
+    
+
