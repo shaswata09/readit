@@ -32,4 +32,4 @@ The training and dataset wasn’t uploaded due to github file size limitation. P
     
 
 ## Behind the scene:
-Project is developed by me and souravdkv. For any further details you can reach us via mail.
+Project is developed by me and souravdkv.
